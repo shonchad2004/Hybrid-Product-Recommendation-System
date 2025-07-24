@@ -34,14 +34,23 @@ This project is designed to showcase proficiency in core machine learning concep
 ## 📂 Project Structure
 
 /product-recommendation-system
+
 |-- recsys_env/               # Virtual environment
+
 |-- app.py                    # Main application, hybrid logic, and Flask API
+
 |-- collaborative_filtering_model.py
+
 |-- content_based_model.py
+
 |-- popularity_model.py
+
 |-- item2vec_model.py         # Conceptual code for a deep learning approach
+
 |-- Reviews.csv               # The dataset
+
 |-- README.md                 # This documentation
+
 |-- requirements.txt          # Project dependencies
 
 
