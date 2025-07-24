@@ -1,0 +1,6 @@
+# Ignore the Python virtual environment
+recsys_env/
+
+# Ignore Python's cache files
+__pycache__/
+
